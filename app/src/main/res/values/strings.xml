@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">WhatsApp</string>
+    <string name="button_logar">Logar</string>
+    <string name="text_cadastre_se">Não tem conta? Cadastre-se</string>
+    <string name="digite_email">Digite seu e-mail</string>
+    <string name="digite_senha">Digite sua senha</string>
+    <string name="digite_nome">Digite seu nome</string>
+    <string name="button_cadastrar">Cadastrar</string>
+
+    <string name="menu_search">Pesquisar</string>
+    <string name="menu_settings">Configurações</string>
+    <string name="menu_exit">Sair</string>
+
+    <!-- Abas -->
+    <string name="aba_conversas">Conversas</string>
+    <string name="aba_contatos">Contatos</string>
+
+    <!-- Title screen -->
+    <string name="title_settings">Configurações</string>
+
+    <string name="dica_nome_perfil">Este não é seu nome de usuário ou sua senha é o nome que ficará visível para seus contatos</string>
+
+    <!-- Alert -->
+    <string name="title_alert_permission_denied">Permissão negada</string>
+    <string name="message_permission_denied">Para continuar utilizando o App é preciso aceitar as permissões</string>
+    <string name="alert_button_confirm">Confirmar</string>
+
+    <!-- Uploads -->
+    <string name="message_fail_upload">Erro ao fazer upload da imagem</string>
+    <string name="message_success_upload">Sucesso ao fazer upload da imagem</string>
+    <string name="title_activity_chat">ChatActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_group">GroupActivity</string>
+    <string name="title_activity_group_registration">GroupRegistrationActivity</string>
+
+    <string name="nome_grupo">Digite o nome do grupo</string>
+    <string name="defina_nome_imagem_opcional">Defina um nome e uma imagem opcional</string>
+
+</resources>
